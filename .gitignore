@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Claude Code 本地会话
+.claude/
+
+# 运行时
+*.log
+/tmp/
+
+# 上传的知识库文件
+backend/data/
